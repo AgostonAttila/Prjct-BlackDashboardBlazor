@@ -1,0 +1,38 @@
+﻿@using System.Globalization;
+@using BlackDash.Models;
+
+@*@typeparam TItem*@
+
+
+<table class=" table tablesorter" id="">
+	<thead class=" text-primary">
+		<tr>
+			@foreach (var header in HeaderList)
+			{
+				<th class=@header.Class>@header.Text</th>
+			}			
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var content in ContentList)
+		{
+			<tr>
+				<td>@content.FirstName @content.LastName</td>
+				<td>@content.Country</td>
+				<td>@content.City</td>
+				<td class=" text-center">@content.Salary.ToString("C", CultureInfo.CurrentCulture)</td>
+			</tr>
+		}
+	</tbody>
+</table>
+
+@code {
+
+
+	[Parameter]
+	public IEnumerable<TableHeader> HeaderList { get; set; }
+
+	[Parameter]
+	public IEnumerable<AppUser> ContentList { get; set; }
+
+}

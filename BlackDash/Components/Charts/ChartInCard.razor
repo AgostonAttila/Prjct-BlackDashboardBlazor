@@ -1,0 +1,46 @@
+﻿@using static BlackDash.Components.Charts.Chart;
+<div class=" col-lg-4">
+	<div class=" card card-chart">
+		<div class=" card-header">
+			<h5 class=" card-category">@Category</h5>
+			<h3 class=" card-title">
+				<i class=" tim-icons icon-bell-55 text-danger-states"> </i> @Amount
+			</h3>
+		</div>
+		<div class=" card-body">
+			<div class=" chart-area">
+				<Chart Id="@Id" Data="@Data" Type="@Type" BackgroundColor="@BackgroundColor" Labels="@Labels"></Chart>
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+@code {
+
+	[Parameter]
+	public string Id { get; set; }
+
+	[Parameter]
+	public ChartType Type { get; set; } = ChartType.Bar;
+
+	[Parameter]
+	public string[] Data { get; set; }
+
+	[Parameter]
+	public string[] BackgroundColor { get; set; }
+
+	[Parameter]
+	public string[] Labels { get; set; }
+
+	[Parameter]
+	public string Icon { get; set; }
+
+	[Parameter]
+	public string Category { get; set; }
+
+	[Parameter]
+	public string Amount { get; set; }
+
+	
+}

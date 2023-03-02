@@ -1,0 +1,185 @@
+﻿<div class="logo">
+	<a href="/dashboard" class="simple-text logo-mini">
+		<div class="logo-img">
+			<img src="./assets/img/blazor.svg" />
+		</div>
+	</a>
+	<a href="/dashboard" class="simple-text logo-normal">
+		Blazor Dash
+	</a>
+</div>
+<div class="sidebar-wrapper">
+	<ul class="nav">
+		@foreach (var route in ROUTES)
+		{
+			<li routerLinkActive="active"
+			class=" @route.classPrp nav-item">
+				<a href=@route.path>
+					<i class="tim-icons  @route.icon "></i>
+					<p>@route.title</p>
+				</a>
+			</li>
+		}
+		<li class="nav-item" routerlinkactive="active" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+			<a>
+				<i class="tim-icons icon-pin"></i>
+				<p>Collapsed<b class="caret"></b></p>
+			</a>
+		</li>
+		<div class="collapse" id="collapseExample">
+			<ul class="nav">
+				@foreach (var route in collapsedROUTES)
+				{
+					<li routerlinkactive="active" class="">
+						<a href=@route.path>
+							<span class="sidebar-mini-icon">@route.title.First()</span>
+							<span class="sidebar-normal">@route.title</span>
+						</a>
+					</li>
+				}
+			</ul>
+		</div>
+	</ul>
+</div>
+
+@code {
+	public class RouteInfo
+	{
+		public string? path { get; set; }
+		public string? title { get; set; }
+		public string? icon { get; set; }
+		public string? classPrp { get; set; }
+	}
+
+	List<RouteInfo> collapsedROUTES = new List<RouteInfo>
+	{
+		new RouteInfo   {
+		path = "/buttons",
+		title= "Button",
+		icon = "icon-button",
+		classPrp = ""
+			}
+			,
+		new RouteInfo   {
+		path = "/grid",
+		title= "GridSystem",
+		icon = "icon-component",
+		classPrp = ""
+			},
+			new RouteInfo   {
+		path = "/form",
+		title= "Form",
+		icon = "icon-paper",
+		classPrp = ""
+			}
+		//	,
+		//	new RouteInfo   {
+		//path = "/calendar",
+		//title= "Calendar",
+		//icon = "icon-calendar-60",
+		//classPrp = ""
+		//	}
+			,
+			new RouteInfo   {
+		path = "/chartjs",
+		title= "ChartJs",
+		icon = "icon-atom",
+		classPrp = ""
+			}
+			,
+			new RouteInfo   {
+		path = "/vectormap",
+		title= "VectorMap",
+		icon = "icon-planet",
+		classPrp = ""
+			}
+			,
+			new RouteInfo   {
+		path = "/plan",
+		title= "Plan",
+		icon = "icon-notes",
+		classPrp = ""
+			}
+			,
+			new RouteInfo   {
+		path = "/panels",
+		title= "Panels",
+		icon = "icon-send",
+		classPrp = ""
+			}       ,
+			new RouteInfo   {
+		path = "/widget",
+		title= "Widget",
+		icon = "icon-tablet-2",
+		classPrp = ""
+			}
+			  ,
+			new RouteInfo   {
+		path = "/timeline",
+		title= "Timeline",
+		icon = "icon-time",
+		classPrp = ""
+			} ,
+			new RouteInfo   {
+		path = "/",
+		title= "Dashboard",
+		icon = "icon-dashboard",
+		classPrp = ""
+			}
+
+	};
+
+
+
+	List<RouteInfo> ROUTES = new List<RouteInfo>{
+
+
+	new RouteInfo{
+	path = "/dashboard",
+	title= "Dashboard",
+
+	icon = "icon-chart-pie-36",
+
+	classPrp = ""
+	},
+	new RouteInfo   {
+				path = "/icons",
+				title= "Icons",
+				icon = "icon-atom",
+				classPrp = ""
+		},
+	new RouteInfo   {
+	path = "/maps",
+	title= "Maps",
+	icon = "icon-pin",
+	classPrp = ""
+	},
+		new RouteInfo
+		{
+	path = "/notifications",
+	title= "Notifications",
+	icon = "icon-bell-55",
+	classPrp = ""
+		},
+	new RouteInfo   {
+	path = "/user",
+	title= "User Profile",
+	icon = "icon-single-02",
+	classPrp = ""
+		},
+	new RouteInfo   {
+	path = "/tables",
+	title= "Table List",
+	icon = "icon-puzzle-10",
+	classPrp = ""
+		},
+	new RouteInfo   {
+	path = "/typography",
+	title= "Typography",
+	icon = "icon-align-center",
+	classPrp = ""
+		}
+
+
+	};
+}

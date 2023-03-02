@@ -1,0 +1,132 @@
+﻿@inherits LayoutComponentBase
+@using BlackDash.Components
+@using BlackDash.Components.Shared
+
+<div class="@(isWhiteColor ? "white-content" : "")">
+	<div class="wrapper">
+		<div class="sidebar" data=@sideBarColor style=@sideBarStyle>
+			<SideBar></SideBar>
+		</div>
+		<div class="main-panel">
+			<NavBar></NavBar>
+			<div class=" content">
+				@Body
+			</div>
+			<Footer></Footer>
+			@*  <ThemeOptions></ThemeOptions>*@
+		</div>
+	</div>
+</div>
+
+<div class="fixed-plugin">
+	<div class="dropdown show-dropdown">
+		<a href="#" data-toggle="dropdown">
+			<i class="fa fa-cog fa-2x"> </i>
+		</a>
+		<ul class="dropdown-menu">
+			<li class="header-title"> Sidebar Background</li>
+			<li class="adjustments-line">
+				<a href="javascript:void(0)" class="switch-trigger background-color">
+					<div class="badge-colors text-center">
+						<span class="badge filter badge-primary @isActivePurple" data-color="primary" @onclick=@(() => ChangeSideBar("white"))></span>
+						<span class="badge filter badge-info @isActiveBlue" data-color="blue" @onclick=@(() => ChangeSideBar("blue"))></span>
+						<span class="badge filter badge-success @isActiveGreen" data-color="green" @onclick=@(() => ChangeSideBar("green"))></span>
+						<span class="badge filter badge-warning @isActiveRed" data-color="red" @onclick=@(() => ChangeSideBar("red"))></span>
+					</div>
+					<div class="clearfix"></div>
+				</a>
+			</li>
+			<li class="adjustments-line text-center color-change">
+				<span class="color-label">LIGHT MODE</span>
+				<span class="badge light-badge mr-2" @onclick=@(() => ChangeColor("white"))> </span>
+				<span class="badge dark-badge ml-2" @onclick=@(() => ChangeColor("dark"))></span>
+				<span class="color-label">DARK MODE</span>
+			</li>
+			<li class="button-container">
+				<a href="" target="_blank" class="btn btn-primary btn-block btn-round">Download Now</a>
+				<a href="" target="_blank" class="btn btn-default btn-block btn-round">
+					Documentation
+				</a>
+			</li>
+			<li class="header-title">Thank you for 95 shares!</li>
+			<li class="button-container text-center">
+				<button id="twitter" class="btn btn-round btn-info"><i class="fab fa-twitter"></i> &middot; 45</button>
+				<button id="facebook" class="btn btn-round btn-info"><i class="fab fa-facebook-f"></i> &middot; 50</button>
+				<br>
+				<br>
+				<a class="github-button" href="" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
+			</li>
+		</ul>
+	</div>
+</div>
+
+@code {
+
+
+	bool isActivePurple = false;
+	bool isActiveGreen = false;
+	bool isActiveRed = true;
+	bool isActiveBlue = false;
+
+	string sideBarColor = "primary";
+
+	bool isWhiteColor = false;
+	string sideBarStyle = "background: #fd5d93; background: -webkit-linear-gradient(0deg, #ec250d 0%, #fd5d93 100%); background: -o-linear-gradient(0deg, #ec250d 0%, #fd5d93 100%); -moz-linear-gradient(0deg, #ec250d 0%, #fd5d93 100%); background: linear-gradient(0deg, #ec250d 0%, #fd5d93 100%);";
+
+	async Task ChangeColor(string type)
+	{
+		if (type == "white") isWhiteColor = true;
+		else isWhiteColor = false;
+	}
+
+	async Task ChangeSideBar(string type)
+	{
+		if (type == "blue")
+		{
+			sideBarStyle = "";
+			//sideBarStyle = "background: #1f8ef1; background: -webkit-linear-gradient(0deg, #335af4 0%, #1f8ef1 100%); background: -o-linear-gradient(0deg, #335af4 0%, #1f8ef1 100%); -moz-linear-gradient(0deg, #335af4 0%, #1f8ef1 100%); background: linear-gradient(0deg, #335af4 0%, #1f8ef1 100%);";
+			sideBarColor = "blue";
+			isActivePurple = false;
+			isActiveGreen = false;
+			isActiveRed = false;
+			isActiveBlue = true;
+		}
+		else if (type == "green")
+		{
+			sideBarStyle = "";
+			//sideBarStyle = "background: #2dce89; background: -webkit-linear-gradient(0deg, #399769 0%, #2dce89 100%); background: -o-linear-gradient(0deg, #399769 0%, #2dce89 100%); -moz-linear-gradient(0deg, #399769 0%, #2dce89 100%); background: linear-gradient(0deg, #399769 0%, #2dce89 100%);";
+			sideBarColor = "green";
+			isActivePurple = false;
+			isActiveGreen = true;
+			isActiveRed = false;
+			isActiveBlue = false;
+		}
+		else if (type == "red")
+		{
+			sideBarStyle = "background: #fd5d93; background: -webkit-linear-gradient(0deg, #ec250d 0%, #fd5d93 100%); background: -o-linear-gradient(0deg, #ec250d 0%, #fd5d93 100%); -moz-linear-gradient(0deg, #ec250d 0%, #fd5d93 100%); background: linear-gradient(0deg, #ec250d 0%, #fd5d93 100%);";
+			sideBarColor = "red";
+			isActivePurple = false;
+			isActiveGreen = false;
+			isActiveRed = true;
+			isActiveBlue = false;
+		}
+		else
+		{
+			sideBarStyle = "";
+			//sideBarStyle = "background: #ba54f5; background: -webkit-linear-gradient(0deg, #ba54f5 0%, #e14eca 100%); background: -o-linear-gradient(0deg, #ba54f5 0%, #e14eca 100%); -moz-linear-gradient(0deg, #ba54f5 0%, #e14eca 100%); background: linear-gradient(0deg, #ba54f5 0%, #e14eca 100%);";
+			sideBarColor = "primary";
+			isActivePurple = true;
+			isActiveGreen = false;
+			isActiveRed = false;
+			isActiveBlue = false;
+
+		}
+
+
+
+	}
+
+
+
+
+}

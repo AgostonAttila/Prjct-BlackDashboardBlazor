@@ -1,0 +1,133 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BlackDash
+build_property.RootNamespace = BlackDash
+build_property.ProjectDir = e:\Programming\Projects\Prjct-Big-Dashboard-Bundle\Blazor\Prjct-BlackDashboardBlazor\BlackDash\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = e:\Programming\Projects\Prjct-Big-Dashboard-Bundle\Blazor\Prjct-BlackDashboardBlazor\BlackDash
+build_property._RazorSourceGeneratorDebug = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Components/Charts/Chart.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDaGFydHNcQ2hhcnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Components/Charts/ChartInCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDaGFydHNcQ2hhcnRJbkNhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Components/Charts/MainChart.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDaGFydHNcTWFpbkNoYXJ0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Components/Shared/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcRm9vdGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Components/Shared/NavBar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcTmF2QmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Components/Shared/SideBar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcU2lkZUJhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Components/Shared/ThemeOptions.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcVGhlbWVPcHRpb25zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Components/Table/Table.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUYWJsZVxUYWJsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Components/Table/TableWithCheckBox.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUYWJsZVxUYWJsZVdpdGhDaGVja0JveC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Layouts/AdminLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0c1xBZG1pbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Pages/Buttons.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnV0dG9ucy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Pages/Calendar.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsZW5kYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Pages/ChartJs.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hhcnRKcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Pages/Dashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGFzaGJvYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Pages/Form.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9ybS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Pages/GridSystem.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JpZFN5c3RlbS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Pages/Icons.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWNvbnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Pages/Map.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Pages/Notifications.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90aWZpY2F0aW9ucy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Pages/Panels.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFuZWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Pages/Plan.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxhbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Pages/Tables.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFibGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Pages/TimeLine.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGltZUxpbmUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Pages/Typography.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHlwb2dyYXBoeS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Pages/User.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Pages/VectorMap.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVjdG9yTWFwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/Pages/Widget.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2lkZ2V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/Programming/Projects/Prjct-Big-Dashboard-Bundle/Blazor/Prjct-BlackDashboardBlazor/BlackDash/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 

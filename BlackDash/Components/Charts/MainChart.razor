@@ -1,0 +1,199 @@
+﻿@using static BlackDash.Components.Charts.Chart;
+@inject IJSRuntime JSRuntime
+
+<div class=" card card-chart">
+	<div class=" card-header">
+		<div class=" row">
+			<div class=" col-sm-6 text-left">
+				<h5 class=" card-category">Total Shipments</h5>
+				<h2 class=" card-title">Performance</h2>
+			</div>
+			<div class=" col-sm-6">
+				<div class=" btn-group btn-group-toggle float-right"
+					 data-toggle="buttons">
+					<label class=" btn btn-sm btn-danger btn-simple @(isActiveAccounts ? "active" : "")" @onclick=@(() => UpdateCharts("accounts"))>
+						<input checked="checked" name="options" type="radio" />
+
+						<span class=" d-none d-sm-block d-md-block d-lg-block d-xl-block">
+							Accounts
+						</span>
+						<span class=" d-block d-sm-none ">
+							<i class=" tim-icons icon-single-02 @(isActiveAccounts ? "active" : "")" @onclick=@(() => UpdateCharts("accounts"))> </i>
+						</span>
+					</label>
+					<label class=" btn btn-sm btn-danger btn-simple @(isActivePurchases ? "active" : "")" @onclick=@(() => UpdateCharts("purchases"))>
+						<input class=" d-none d-sm-none"
+							   name="options"
+							   type="radio" />
+						<span class=" d-none d-sm-block d-md-block d-lg-block d-xl-block" )>
+							Purchases
+						</span>
+						<span class=" d-block d-sm-none">
+							<i class=" tim-icons icon-gift-2 @(isActivePurchases ? "active" : "")" @onclick=@(() => UpdateCharts("purchases"))> </i>
+						</span>
+					</label>
+					<label class=" btn btn-sm btn-danger btn-simple @(isActiveSessions ? "active" : "")" @onclick=@(() => UpdateCharts("sessions"))>
+						<input class=" d-none" name="options" type="radio" />
+
+						<span class=" d-none d-sm-block d-md-block d-lg-block d-xl-block @(isActiveSessions ? "active" : "")" @onclick=@(() => UpdateCharts("sessions"))>
+							Sessions
+						</span>
+						<span class=" d-block d-sm-none @(isActiveSessions ? "active" : "")" @onclick=@(() => UpdateCharts("sessions"))>
+							<i class=" tim-icons icon-tap-02"> </i>
+						</span>
+					</label>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class=" card-body">
+		<div class=" chart-area">
+			<Chart Id="@Id" Data="@Data" Type="@Type" BackgroundColor="@BackgroundColor" Labels="@Labels"></Chart>
+		</div>
+	</div>
+</div>
+
+@code {
+	[Parameter]
+	public string Id { get; set; }
+
+	[Parameter]
+	public ChartType Type { get; set; } = ChartType.Bar;
+
+	[Parameter]
+	public string[] Data { get; set; }
+
+	[Parameter]
+	public string[] BackgroundColor { get; set; }
+
+	[Parameter]
+	public string[] Labels { get; set; }
+
+	[Parameter]
+	public string Icon { get; set; }
+
+	[Parameter]
+	public string Category { get; set; }
+
+	[Parameter]
+	public string Amount { get; set; }
+
+
+	bool isActiveSessions = false;
+	bool isActivePurchases = false;
+	bool isActiveAccounts = true;
+
+	async Task UpdateCharts(string type)
+	{
+		if (type == "accounts")
+		{
+			Data = new[] { "100", "70", "90", "70", "85", "60", "75", "60", "90", "80", "110", "100" };
+			isActiveSessions = false;
+			isActivePurchases = false;
+			isActiveAccounts = true;
+		}
+		else if (type == "purchases")
+		{
+			Data = new[] { "80", "120", "105", "110", "95", "105", "90", "100", "80", "95", "70", "120" };
+			isActiveSessions = false;
+			isActivePurchases = true;
+			isActiveAccounts = false;
+		}
+		else
+		{
+			Data = new[] { "60", "80", "65", "130", "80", "105", "90", "130", "70", "115", "60", "130" };
+			isActiveSessions = true;
+			isActivePurchases = false;
+			isActiveAccounts = false;
+		}
+
+
+
+		var config = new
+		{
+			Type = ChartType.Line,
+			Options = new
+			{
+				maintainAspectRatio = false,
+				legend = new { display = false },
+				tooltips =
+			new
+			{
+				backgroundColor = "#f5f5f5",
+				titleFontColor = "#333",
+				bodyFontColor = "#666",
+				bodySpacing = 4,
+				xPadding = 12,
+				mode = "nearest",
+				intersect = 0,
+				position = "nearest"
+			},
+				responsive = true,
+				scales = new
+				{
+					//yAxes = new
+					//{
+					//	barPercentage = 1.6,
+					//	gridLines = new
+					//	{
+					//		drawBorder = false,
+					//		color = "rgba(29,140,248,0.0)",
+					//		zeroLineColor = "transparent",
+					//	},
+					//	ticks = new
+					//	{
+					//		suggestedMin = 60,
+					//		suggestedMax = 125,
+					//		padding = 20,
+					//		fontColor = "#9a9a9a"
+					//	}
+					//},
+
+					//xAxes = new
+					//{
+					//	barPercentage = 1.6,
+					//	gridLines = new
+					//	{
+					//		drawBorder = false,
+					//		color = "rgba(233,32,16,0.1)",
+					//		zeroLineColor = "transparent",
+					//	},
+					//	ticks = new
+					//	{
+					//		padding = 20,
+					//		fontColor = "#9a9a9a"
+					//	}
+					//}
+				}
+			},
+			data = new
+			{
+				datasets = new[]
+			{
+					new {
+						fill = false,
+						data = Data,
+						backgroundColor = "rgba(255,255,255,0)",
+						borderColor= "#ec250d",
+						borderWidth= 2,
+						borderDashOffset= 0.0,
+						pointBackgroundColor= "#ec250d",
+						pointBorderColor =  "rgba(255,255,255,0)",
+						pointHoverBackgroundColor = "#ec250d",
+						pointBorderWidth= 20,
+						pointHoverRadius= 4,
+						pointHoverBorderWidth= 15,
+						pointRadius= 4,
+
+					}
+	},
+				labels = Labels
+			}
+		};
+
+		await JSRuntime.InvokeVoidAsync("setup", "bigLineChart", config);
+		//(click) = "data=datasets[0];updateOptions();clicked=true;clicked1=false;clicked2=false"
+		//(click)="data=datasets[1];updateOptions();clicked=false;clicked1=true;clicked2=false"
+		//(click)="data=datasets[2];updateOptions();clicked=false;clicked1=false;clicked2=true"
+	}
+}

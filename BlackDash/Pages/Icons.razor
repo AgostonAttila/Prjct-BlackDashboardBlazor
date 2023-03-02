@@ -1,0 +1,139 @@
+﻿@page "/icons"
+@using BlackDash.Models;
+
+
+
+	<div class=" row">
+		<div class=" col-md-12">
+			<div class=" card">
+				<div class=" card-header">
+					<h5 class=" title">100 Awesome Nucleo Icons</h5>
+					<p class=" category">
+						Handcrafted by our friends from
+						<a href="https://nucleoapp.com/?ref=1712"> NucleoApp </a>
+					</p>
+				</div>
+				<div class=" card-body all-icons">
+					<div class=" row">
+						@foreach (var icon in iconTileList)
+						{
+							<div class=" font-icon-list col-lg-2 col-md-3 col-sm-4 col-xs-6 col-xs-6">
+								<div class=" font-icon-detail">
+									<i class=" tim-icons @icon.Class"> </i>
+									<p>@icon.Class</p>
+								</div>
+							</div>
+						}
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+@code {
+									List<IconTile> iconTileList = new List<IconTile>
+									{
+									new IconTile {Class ="icon-alert-circle-exc"},
+									new IconTile {Class ="icon-align-center"},
+									new IconTile {Class ="icon-align-left-2"},
+									new IconTile {Class ="icon-app" },
+									new IconTile {Class ="icon-atom"},
+									new IconTile {Class ="icon-attach-87"},
+									new IconTile {Class ="icon-badge"},
+									new IconTile {Class ="icon-bag-16"},
+									new IconTile {Class ="icon-bank"},
+									new IconTile {Class ="icon-basket-simple"},
+									new IconTile {Class ="icon-bell-55"},
+									new IconTile {Class ="icon-bold"},
+									new IconTile {Class ="icon-book-bookmark"},
+									new IconTile {Class ="icon-double-right"},
+									new IconTile {Class ="icon-bulb-63"},
+									new IconTile {Class ="icon-bullet-list-67"},
+									new IconTile {Class ="icon-bus-front-12"},
+									new IconTile {Class ="icon-button-power"},
+									new IconTile {Class ="icon-camera-18"},
+									new IconTile {Class ="icon-calendar-60"},
+									new IconTile {Class ="icon-caps-small"},
+									new IconTile {Class ="icon-cart"},
+									new IconTile {Class ="icon-chart-bar-32"},
+									new IconTile {Class ="icon-chart-pie-36"},
+									new IconTile {Class ="icon-chat-33"},
+									new IconTile {Class ="icon-check-2"},
+									new IconTile {Class ="icon-cloud-download-93"},
+									new IconTile {Class ="icon-cloud-upload-94"},
+									new IconTile {Class ="icon-coins"},
+									new IconTile {Class ="icon-compass-05"},
+									new IconTile {Class ="icon-controller"},
+									new IconTile {Class ="icon-credit-card"},
+									new IconTile {Class ="icon-delivery-fast"},
+									new IconTile {Class ="icon-email-85"},
+									new IconTile {Class ="icon-gift-2"},
+									new IconTile {Class ="icon-globe-2"},
+									new IconTile {Class ="icon-headphones"},
+									new IconTile {Class ="icon-heart-2"},
+									new IconTile {Class ="icon-html5"},
+									new IconTile {Class ="icon-double-left"},
+									new IconTile {Class ="icon-image-02"},
+									new IconTile {Class ="icon-istanbul"},
+									new IconTile {Class ="icon-key-25"},
+									new IconTile {Class ="icon-laptop"},
+									new IconTile {Class ="icon-light-3"},
+									new IconTile {Class ="icon-link-72"},
+									new IconTile {Class ="icon-lock-circle"},
+									new IconTile {Class ="icon-map-big"},
+									new IconTile {Class ="icon-minimal-down"},
+									new IconTile {Class ="icon-minimal-left"},
+									new IconTile {Class ="icon-minimal-right"},
+									new IconTile {Class ="icon-minimal-up"},
+									new IconTile {Class ="icon-mobile"},
+									new IconTile {Class ="icon-molecule-40"},
+									new IconTile {Class ="icon-money-coins"},
+									new IconTile {Class ="icon-notes"},
+									new IconTile {Class ="icon-palette"},
+									new IconTile {Class ="icon-paper"},
+									new IconTile {Class ="icon-pin"},
+									new IconTile {Class ="icon-planet"},
+									new IconTile {Class ="icon-puzzle-10"},
+									new IconTile {Class ="icon-pencil"},
+									new IconTile {Class ="icon-satisfied"},
+									new IconTile {Class ="icon-scissors" },
+									new IconTile {Class ="icon-send"},
+									new IconTile {Class ="icon-settings-gear-63"},
+									new IconTile {Class ="icon-settings"},
+									new IconTile {Class ="icon-wifi"},
+									new IconTile {Class ="icon-single-02"},
+									new IconTile {Class ="icon-single-copy-04"},
+									new IconTile {Class ="icon-sound-wave"},
+									new IconTile {Class ="icon-spaceship"},
+									new IconTile {Class ="icon-square-pin"},
+									new IconTile {Class ="icon-support-17"},
+									new IconTile {Class ="icon-tablet-2"},
+									new IconTile {Class ="icon-tag"},
+									new IconTile {Class ="icon-tap-02"},
+									new IconTile {Class ="icon-tie-bow"},
+									new IconTile {Class ="icon-time-alarm"},
+									new IconTile {Class ="icon-trash-simple"},
+									new IconTile {Class ="icon-trophy"},
+									new IconTile {Class ="icon-tv-2"},
+									new IconTile {Class ="icon-upload"},
+									new IconTile {Class ="icon-user-run"},
+									new IconTile {Class ="icon-vector"},
+									new IconTile {Class ="icon-video-66"},
+									new IconTile {Class ="icon-wallet-43"},
+									new IconTile {Class ="icon-volume-98"},
+									new IconTile {Class ="icon-watch-time"},
+									new IconTile {Class ="icon-world"},
+									new IconTile {Class ="icon-zoom-split"},
+									new IconTile {Class ="icon-refresh-01"},
+									new IconTile {Class ="icon-refresh-02"},
+									new IconTile {Class ="icon-shape-star"},
+									new IconTile {Class ="icon-components"},
+									new IconTile {Class ="icon-triangle-right-17"},
+									new IconTile {Class ="icon-button-pause"},
+									new IconTile {Class ="icon-simple-remove"},
+									new IconTile {Class ="icon-simple-add"},
+									new IconTile {Class ="icon-simple-delete"}
+									};
+}

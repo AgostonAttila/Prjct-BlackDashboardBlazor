@@ -1,0 +1,853 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\obj\\Debug\\net6.0\\build-gz\\sE1qT07U.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\css\\black-dashboard.css",
+      "PackagePath": "staticwebassets\\assets\\css\\black-dashboard.css"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\css\\black-dashboard.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\black-dashboard.css.map"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\css\\black-dashboard.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\black-dashboard.min.css"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\demo\\demo.css",
+      "PackagePath": "staticwebassets\\assets\\demo\\demo.css"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\fonts\\nucleo.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.eot"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\fonts\\nucleo.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.ttf"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\fonts\\nucleo.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.woff"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\fonts\\nucleo.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.woff2"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\AU.png",
+      "PackagePath": "staticwebassets\\assets\\img\\AU.png"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\BR.png",
+      "PackagePath": "staticwebassets\\assets\\img\\BR.png"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\DE.png",
+      "PackagePath": "staticwebassets\\assets\\img\\DE.png"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\GB.png",
+      "PackagePath": "staticwebassets\\assets\\img\\GB.png"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\RO.png",
+      "PackagePath": "staticwebassets\\assets\\img\\RO.png"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\US.png",
+      "PackagePath": "staticwebassets\\assets\\img\\US.png"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\angular.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\angular.jpg"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\angular2-logo-red.png",
+      "PackagePath": "staticwebassets\\assets\\img\\angular2-logo-red.png"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\angular2-logo-white.png",
+      "PackagePath": "staticwebassets\\assets\\img\\angular2-logo-white.png"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\anime3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\anime3.png"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\anime6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\anime6.png"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\argon-white.png",
+      "PackagePath": "staticwebassets\\assets\\img\\argon-white.png"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\bLAZOR.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bLAZOR.png"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\bg5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg5.jpg"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\blazor.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\blazor.svg"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\card-primary.png",
+      "PackagePath": "staticwebassets\\assets\\img\\card-primary.png"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\default-avatar.png",
+      "PackagePath": "staticwebassets\\assets\\img\\default-avatar.png"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\emilyz.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\emilyz.jpg"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\header.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\header.jpg"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\img_3115.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\img_3115.jpg"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\james.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\james.jpg"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\jana.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\jana.jpg"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\lora.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\lora.jpg"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\mike.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\mike.jpg"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\robi.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\robi.jpg"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\img\\tania.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\tania.jpg"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\js\\black-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\black-dashboard.js"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\js\\black-dashboard.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\black-dashboard.js.map"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\js\\black-dashboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\black-dashboard.min.js"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\js\\core\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard.css"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard.min.css",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard.min.css"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\angular-differences\\_angular-differences.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\angular-differences\\_angular-differences.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\angular-differences\\_card-user.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\angular-differences\\_card-user.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\angular-differences\\_charts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\angular-differences\\_charts.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\angular-differences\\_nucleo-icons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\angular-differences\\_nucleo-icons.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\angular-differences\\_rtl.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\angular-differences\\_rtl.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\angular-differences\\_sidebar-and-main-panel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\angular-differences\\_sidebar-and-main-panel.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\angular-differences\\plugins\\_ngx-toastr.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\angular-differences\\plugins\\_ngx-toastr.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_alerts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_alerts.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_card.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_checkboxes-radio.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_checkboxes-radio.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_dropdown.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_footer.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_forms.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_functions.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_images.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_input-group.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_misc.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_modal.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_navbar.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_rtl.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_rtl.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_sidebar-and-main-panel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_sidebar-and-main-panel.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_tables.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_type.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_variables.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\_white-content.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\_white-content.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\cards\\_card-chart.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\cards\\_card-chart.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\cards\\_card-map.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\cards\\_card-map.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\cards\\_card-plain.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\cards\\_card-plain.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\cards\\_card-task.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\cards\\_card-task.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\cards\\_card-user.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\cards\\_card-user.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_dropdown.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_icon.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_icon.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_inputs.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_modals.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_modals.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_page-header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_page-header.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_vendor-prefixes.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_vendor-prefixes.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\_wizard.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\_wizard.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\mixins\\opacity.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\mixins\\opacity.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\utilities\\_backgrounds.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\utilities\\_backgrounds.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\utilities\\_floating.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\utilities\\_floating.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\utilities\\_helper.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\utilities\\_helper.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\utilities\\_position.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\utilities\\_text.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\utilities\\_transform.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\utilities\\_transform.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\vendor\\_plugin-animate-bootstrap-notify.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\vendor\\_plugin-animate-bootstrap-notify.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\custom\\vendor\\_plugin-perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\custom\\vendor\\_plugin-perfect-scrollbar.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\assets\\scss\\black-dashboard\\plugins\\_plugin-perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\black-dashboard\\plugins\\_plugin-perfect-scrollbar.scss"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\chart.js",
+      "PackagePath": "staticwebassets\\chart.js"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\Programming\\Projects\\Prjct-Big-Dashboard-Bundle\\Blazor\\Prjct-BlackDashBlazor\\BlackDash\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BlackDash.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BlackDash.props",
+      "PackagePath": "build\\BlackDash.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BlackDash.props",
+      "PackagePath": "buildMultiTargeting\\BlackDash.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BlackDash.props",
+      "PackagePath": "buildTransitive\\BlackDash.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
